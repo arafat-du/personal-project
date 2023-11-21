@@ -6,3 +6,6 @@ http://stream.amrbd.com:8082/somoy/tracks-v1a1/mono.m3u8
 #EXTINF:-2 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Sony Max
 http://stream.amrbd.com:8082/sony-maxhd/tracks-v1a1/mono.m3u8
 
+#EXTINF:-3 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, 9xm
+http://stream.amrbd.com:8082/9xm/tracks-v1a1/mono.m3u8
+
