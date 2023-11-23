@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Shomoy
-https://pull.niues.live/live/stream-9912085_lhd.m3u8
+http://stream.amrbd.com:8082/somoy/tracks-v1a1/mono.m3u8
 
 #EXTINF:-2 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Sony Max
 http://stream.amrbd.com:8082/sony-maxhd/tracks-v1a1/mono.m3u8
@@ -9,3 +9,92 @@ http://stream.amrbd.com:8082/sony-maxhd/tracks-v1a1/mono.m3u8
 #EXTINF:-3 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, 9xm
 http://stream.amrbd.com:8082/9xm/tracks-v1a1/mono.m3u8
 
+#EXTINF:-4 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, ten1
+http://stream.amrbd.com:8082/sonyten1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-5 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, ten2
+http://stream.amrbd.com:8082/sonyten2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-6 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, ss1
+http://stream.amrbd.com:8082/stersports1hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-7 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, select 1
+http://stream.amrbd.com:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-8 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, select 2
+http://stream.amrbd.com:8082/select2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-9 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, T sports
+http://stream.amrbd.com:8082/T-Sportss/tracks-v1a1/mono.m3u8
+
+#EXTINF:-10 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, planet
+http://stream.amrbd.com:8082/animalplanent/tracks-v1a1/mono.m3u8
+
+#EXTINF:-11 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Discovery
+http://stream.amrbd.com:8082/discovery/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-12 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Nat Geo
+http://stream.amrbd.com:8082/ngohd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-13 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Wild
+http://stream.amrbd.com:8082/wild/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-14 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, MNX
+http://stream.amrbd.com:8082/mnx-hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-15 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, YaY
+http://stream.amrbd.com:8082/sonyway/tracks-v1a1/mono.m3u8
+
+#EXTINF:-16 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Nick
+http://stream.amrbd.com:8082/nick/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-17 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, &pictures
+http://stream.amrbd.com:8082/andpictures/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-18 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Nick
+http://stream.amrbd.com:8082/sonyen/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-19 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Star Gold
+http://stream.amrbd.com:8082/stargold/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-20 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Star Plus
+http://stream.amrbd.com:8082/starplus/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-21 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Nick
+http://stream.amrbd.com:8082/zeecinemahd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-22 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Ch24
+http://stream.amrbd.com:8082/Channel_24_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-23 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, DBC
+http://stream.amrbd.com:8082/DBC_News_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-24 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, jalsha movie
+http://stream.amrbd.com:8082/jalshamovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-25 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Aath
+http://stream.amrbd.com:8082/Sony_Aath/tracks-v1a1/mono.m3u8
+
+#EXTINF:-26 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Star Jalsha
+http://stream.amrbd.com:8082/starjalsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-26 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Independent
+http://stream.amrbd.com:8082/indepen/tracks-v1a1/mono.m3u8
+
+#EXTINF:-27 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Zee Bangla
+http://stream.amrbd.com:8082/zeebanglahd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-28 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Ten 3
+http://stream.amrbd.com:8082/sonyten3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-29 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Shomoy
+https://pull.niues.live/live/stream-9912085_lhd.m3u8
